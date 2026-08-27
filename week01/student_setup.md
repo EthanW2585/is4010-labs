@@ -1,8 +1,8 @@
 # Lab 01 setup record
 
-- GitHub username: `YOUR-USERNAME`
-- Fork URL: `https://github.com/YOUR-USERNAME/is4010-labs`
-- Local clone verified: `yes-or-no`
+- GitHub username: `EthanW2585`
+- Fork URL: `https://github.com/EthanW2585/is4010-labs`
+- Local clone verified: `yes`
 - uv version: `0.x.x`
 - Python version: `3.12.x`
 
